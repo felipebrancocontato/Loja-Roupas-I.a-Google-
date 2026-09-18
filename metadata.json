@@ -1,0 +1,6 @@
+{
+  "name": "Loja de Roupas",
+  "description": "Landing page moderna e completa para loja de roupas com catálogo interativo, sacola de compras, provador virtual e lookbook.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
